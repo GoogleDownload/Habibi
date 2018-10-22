@@ -1,13 +1,13 @@
 {
   "name": "Habibi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "habibi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kermina Awad and Joseph Fanous",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
   },
