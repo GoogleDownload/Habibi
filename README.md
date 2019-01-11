@@ -1,2 +1,2 @@
 # Habibi
-Discord Bot, a bot that loves you.
+A Discord Bot that loves you.
